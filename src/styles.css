@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.background-color-black {
+    background-color: #000000;
+}
+
+.error-message {
+    color: #E05C65; 
+}
+
+.form-group {
+    margin-bottom: 2.5em;
+}
