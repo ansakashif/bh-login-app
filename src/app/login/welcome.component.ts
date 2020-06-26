@@ -12,7 +12,7 @@ import { AuthService } from './auth.service';
                </div>`
 })
 
-export class WelcomeComponent implements OnInit{
+export class WelcomeComponent implements OnInit {
     constructor(private router: Router, private authService: AuthService) {
 
     }
