@@ -11,8 +11,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Please use these credentials to log in.
 
 username = `john` ; password = `dilinger`
+
 username = `sam` ; password = `jenkis`
+
 username = `mickey` ; password = `cohen`
+
 username = `don` ; password = `corleone`
 
 ##Note:  
