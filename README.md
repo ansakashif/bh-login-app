@@ -18,7 +18,7 @@ username = `mickey` ; password = `cohen`
 
 username = `don` ; password = `corleone`
 
-##Note:  
+## Note:  
 Username and passsword are both case sensitive and can't contain following characters [`/`, `\`, `,`, `.`, `^`]. 
 
 ## Code scaffolding
