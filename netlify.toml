@@ -1,0 +1,16 @@
+[Settings]
+ID = "bh-login-516a72"
+
+[build]
+  # This is the directory to change to before starting a build.
+  base    = "/"
+  # This is the directory that you are publishing from (relative to root of your repo)
+  publish = "dist/"
+  # This will be your default build command
+  command = "ng build --no-progress"
+
+# The following redirect is intended for use with most SPA's that handles routing internally.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
